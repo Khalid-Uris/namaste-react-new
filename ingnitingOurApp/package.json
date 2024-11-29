@@ -1,0 +1,17 @@
+{
+  "name": "ingnitingourapp",
+  "version": "1.0.0",
+  "description": "This is Namaste React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "khan"
+  ],
+  "author": "Khalid Uris",
+  "license": "ISC"
+}
