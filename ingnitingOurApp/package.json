@@ -6,12 +6,10 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": [
-    "react",
-    "namaste",
-    "react",
-    "khan"
-  ],
+  "keywords": [],
   "author": "Khalid Uris",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  }
 }
