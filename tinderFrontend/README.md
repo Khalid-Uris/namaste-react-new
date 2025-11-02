@@ -4,6 +4,9 @@
 - Remove unnessary code and create a Hello World app
 - Install Tailwind css
 - Install daisyUi
+
+# 02-11-2025
+
 - Add Navbar component to app.jsx
 - Create a NavBar.jsx separate component file
 - Install react router dom
