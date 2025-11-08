@@ -14,6 +14,15 @@
 - Create an Outlet in your Body Component
 - Create a footer
 
+# 08-11-2025
+
+- Create a login page
+- Install axios
+- CORS - install cors in backend and add middleware to with configurations origin, credentials true
+- Whenever you are making API call so pass axios => {withCredentials: true}
+- Install Redux-toolkit + @reduxjs/toolkit => https://redux-toolkit.js.org/introduction/getting-started
+- configureStore => Provider => createSlice => add reducer to store
+
 # Body
 
 - NavBar
